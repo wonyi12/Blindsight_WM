@@ -6,6 +6,6 @@ This repository contains the code and data for the manuscript "Relative Blindsig
 
 ## data 
 - This folder contains the outputs from the analyses.
-
+  
 ## manuscript
 - This folder contains the preprint, supplementary figures and eventually will add the manuscript.

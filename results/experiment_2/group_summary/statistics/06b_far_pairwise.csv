@@ -1,0 +1,4 @@
+Contrast,A,B,Paired,Parametric,T,dof,alternative,p_unc,p_corr,p_adjust,BF10,hedges
+Condition,SC,CC,True,True,-0.3836496914292615,15.0,two-sided,0.7066212456064017,1.0,bonf,0.273,-0.0434525034054713
+Condition,SC,CI,True,True,-0.02214105551495958,15.0,two-sided,0.9826272877338385,1.0,bonf,0.255,-0.0031425289533262707
+Condition,CC,CI,True,True,0.348517734374438,15.0,two-sided,0.7322947950675488,1.0,bonf,0.27,0.0395059198006458
